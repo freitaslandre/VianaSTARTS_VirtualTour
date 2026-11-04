@@ -1,6 +1,6 @@
 # Visita Virtual 3D Interativa ao Viana S+T+ARTS Center 🏢🎨
 
-> Protótipo de visita virtual 3D interativa em tempo real ao Viana S+T+ARTS Center (antigo Matadouro Municipal de Viana do Castelo), desenvolvido no âmbito do projeto de curso em Engenharia de Computação Gráfica e Multimédia (ESTG/IPVC).
+> Protótipo de visita virtual 3D interativa em tempo real ao Viana S+T+ARTS Center (antigo Matadouro Municipal de Viana do Castelo), desenvolvido no âmbito do projeto de curso em Engenharia de Computação Gráfica e Multimédia (ESTG/UNIPVC).
 
 ---
 
