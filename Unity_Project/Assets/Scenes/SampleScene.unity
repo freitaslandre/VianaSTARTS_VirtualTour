@@ -1367,11 +1367,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 259f517066da9fd4d968ba20e5d62c07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Viana.JogadorSimples
-  velocidade: 1.5
+  velocidade: 7.5
   gravidade: -9.81
   sensibilidade: 0.1
   limiteVertical: 85
-  camara: {fileID: 330585546}
+  camara: {fileID: 0}
 --- !u!143 &1257945372
 CharacterController:
   m_ObjectHideFlags: 0

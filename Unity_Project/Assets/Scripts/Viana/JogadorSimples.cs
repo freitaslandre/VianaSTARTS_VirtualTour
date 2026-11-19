@@ -39,7 +39,7 @@ namespace Viana
         // [Header] cria um título no Inspector; [Tooltip] mostra um texto de ajuda ao passar o rato.
         [Header("Movimento")]
         [Tooltip("Velocidade de caminhada em m/s (especificação: 1,5)")]
-        public float velocidade = 1.5f;   // metros por segundo. O "f" indica que o número é float.
+        public float velocidade = 7.5f;   // metros por segundo. O "f" indica que o número é float.
         public float gravidade = -9.81f;  // aceleração da gravidade (m/s²), negativa porque puxa para baixo (eixo Y)
 
         [Header("Olhar")]
