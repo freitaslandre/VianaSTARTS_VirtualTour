@@ -42,8 +42,8 @@ O projeto consiste no desenvolvimento de uma aplicação interativa 3D que permi
 ## 📁 Estrutura do Repositório
 
 ```text
-├── Assets/              # Scripts, Prefabs, Modelos 3D, Texturas e Cenas Unity
-├── Packages/            # Dependências e Pacotes do Unity
-├── ProjectSettings/     # Definições do Projeto Unity
-├── Docs/                # Relatórios e Documentação do Projeto
+├── Blender_Source/      # Ficheiros Blender
+├── Unity_Project/       # Projeto Unity
+├── Docs/                # Relatórios e Documentação do Projeto, bem como ficheiro para dar deploy no GitHub Pages
+├── .gitignore           # Ficheiro configurado para ignorar pastas com enormes conteúdos ao dar push
 └── README.md            # Ficheiro de Apresentação
